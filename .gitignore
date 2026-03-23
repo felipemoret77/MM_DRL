@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.claude/
+.vscode/
+*.pth
+*.pkl
+*.png
+*.ipynb
+*.ipynb.bak
+artifacts/
+Data/
+mm_bt
+msg_bt
+ob_bt
