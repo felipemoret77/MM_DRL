@@ -6,7 +6,6 @@ __pycache__/
 *.pth
 *.pkl
 *.png
-*.ipynb
 *.ipynb.bak
 artifacts/
 Data/
